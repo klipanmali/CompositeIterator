@@ -1,5 +1,5 @@
 # CompositeIterator
-How ti iterate trough sturctures like composite pattern
+How to iterate trough sturctures like composite pattern
 
 
-from the Commposite pattern example, hoe to iterate though compoiste structures
+from the Commposite pattern example, how to iterate though composite structures
